@@ -1,0 +1,3 @@
+de una empresa con n empleados necesitamos obtener el numero de empleado y sueldo del trabajador
+con el mayor sueldo de la empresa 
+Desarrole un programa 

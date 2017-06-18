@@ -1,0 +1,5 @@
+un vendedor a hecho una serie de ventas y desea conocer aquellas de 200 o menos , las mayores a 200 pero inferiores a 400 
+y el numero de ventas de 400 o superiores a tal cantidad elabore un algoritmo que le proporcione al vendedor esta 
+imformacion
+
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417114958 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\promediode5notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

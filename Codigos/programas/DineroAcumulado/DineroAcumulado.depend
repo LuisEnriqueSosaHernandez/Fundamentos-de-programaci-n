@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415114649 source:c:\users\alangiovani\documents\problemas programación\dineroacumulado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1415114650 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\dineroacumulado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

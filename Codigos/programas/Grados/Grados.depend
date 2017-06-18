@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1415116598 source:c:\users\alangiovani\documents\problemas programación\grados\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1415116600 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\grados\main.c
+	<stdio.h>
+	<stdlib.h>
+

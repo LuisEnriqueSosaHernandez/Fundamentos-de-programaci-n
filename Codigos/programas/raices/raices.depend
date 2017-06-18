@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1412870073 source:c:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\raices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1412849336 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\raices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,8 @@
+OBTENGA LA NOMINA SEMANAL , SALARIO NETO , DE LOS EMPLEADOS DE UNA EMPRESA 
+CUYO TRABAJO SE PAGA POR HORASY DEL MODO SIGUIENTE:
+a)las horas inferiores o iguales a 35 se pagan a una tarifa determinada que se debe capturar al igual que el numero de horas.
+b)las horas superiores a 35 se pagaran como extras a un costo de 1.35 horas normales
+c)los impuestos a deducir a los trabajadores varian en funcion de su sueldo mensual
+a saber: 
+sueldo menor o igual a 2000 libre de impuesto.
+los siguientes 220 dolares al 20 %, el resto al 30%

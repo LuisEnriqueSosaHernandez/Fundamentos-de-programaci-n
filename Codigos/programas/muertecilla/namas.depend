@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1417831015 source:a:\users\luisenrique\desktop\namas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1418343935 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\muertecilla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1418343935 source:a:\users\luisenrique\documents\universidad\primer semestre\fundamentos de programacion\programas\muertecilla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1418365536 source:c:\users\pc\documents\universidad\primer semestre\fundamentos de programacion\programas\muertecilla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

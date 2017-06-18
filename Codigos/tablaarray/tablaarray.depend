@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418073997 source:a:\users\luisenrique\desktop\tablaarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

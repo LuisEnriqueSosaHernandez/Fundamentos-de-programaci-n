@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418346731 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\10calfuncprom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

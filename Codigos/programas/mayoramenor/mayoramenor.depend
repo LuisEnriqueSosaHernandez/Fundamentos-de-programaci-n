@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413342675 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\mayoramenor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

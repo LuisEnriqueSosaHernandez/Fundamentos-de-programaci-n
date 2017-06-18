@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1418140805 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\calificaciontecladoarreglo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

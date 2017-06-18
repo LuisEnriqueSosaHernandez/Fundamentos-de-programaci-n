@@ -1,0 +1,7 @@
+La siguiente se llama la conjetura de ulan en honor del matematico s.ulan.
+comienze con cualquier entero positivo 
+si es par, dividalo entre dos 
+si es impar, multipliquelo por tres y agregele uno 
+obtenga enteros sucesivamente repitiendo el proceso 
+al final obtendra el numero 1, independientemente del entero inicial. por ejemplo cuando el entero inicial es 26 la secuencia
+sera :26,13,40,20,10,5,16,8,4,2,1

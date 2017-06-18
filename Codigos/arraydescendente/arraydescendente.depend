@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418074155 source:a:\users\luisenrique\desktop\arraydescendente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

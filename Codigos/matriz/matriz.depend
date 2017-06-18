@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1417103729 source:a:\users\luisenrique\desktop\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1417116950 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

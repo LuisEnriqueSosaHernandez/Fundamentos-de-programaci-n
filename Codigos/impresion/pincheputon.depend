@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418052950 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\pincheputon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

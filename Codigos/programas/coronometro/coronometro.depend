@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415417871 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\coronometro\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
+1473566906 source:c:\users\pc\documents\universidad\primer semestre\fundamentos de programacion\programas\coronometro\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+

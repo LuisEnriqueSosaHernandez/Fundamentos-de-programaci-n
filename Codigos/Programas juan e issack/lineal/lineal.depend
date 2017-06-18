@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496672168 source:c:\users\pc\documents\universidad\sexto semestre\ayudas\juan e issack\lineal\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

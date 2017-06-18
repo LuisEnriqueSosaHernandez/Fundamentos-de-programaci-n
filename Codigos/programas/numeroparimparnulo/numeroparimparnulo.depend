@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413394779 source:a:\users\luisenrique\documents\universidad\fundamentos de programacion\programas\numeroparimparnulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
