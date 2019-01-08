@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544671308 source:c:\users\jose manuel\desktop\industrial\condicionales\1_est_cond\main.c
+	<stdio.h>
+	<stdlib.h>
+

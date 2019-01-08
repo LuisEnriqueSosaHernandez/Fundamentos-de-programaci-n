@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544645701 source:c:\users\samue\desktop\industrial\secuenciales\3_est_sec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

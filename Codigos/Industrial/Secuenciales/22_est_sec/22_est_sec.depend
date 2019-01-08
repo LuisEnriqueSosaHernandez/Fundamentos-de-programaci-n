@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544668681 source:c:\users\jose manuel\desktop\industrial\secuenciales\22_est_sec\main.c
+	<stdio.h>
+	<stdlib.h>
+
