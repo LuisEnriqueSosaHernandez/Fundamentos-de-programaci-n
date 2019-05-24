@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1556698697 source:c:\users\k_ike\desktop\janines\main.cpp
+1558675106 source:c:\users\k_ike\desktop\janines\main.cpp
 	<iostream>
 	<string>
 	<stdio.h>
 	<time.h>
+	<cctype>
+	<cstdlib>
 
 1556698697 source:c:\users\k_ike\documents\universidad\decimo semestre\otros\janines\main.cpp
 	<iostream>
