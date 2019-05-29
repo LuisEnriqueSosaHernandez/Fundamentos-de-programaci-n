@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559104276 source:c:\users\k_ike\desktop\inventario\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<cctype>
+	<cstdlib>
+
